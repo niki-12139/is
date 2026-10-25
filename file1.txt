@@ -2,3 +2,7 @@ Line 1
 Line 2 completely different in master
 Line 3
 Line 4 added in master
+Changed Line 2 in branch1
+Line 4 added in master
+Line 5 from branch1
+
