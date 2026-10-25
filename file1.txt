@@ -1,4 +1,4 @@
 Line 1
-Line 2
+Line 2 completely different in master
 Line 3
-line 4 in master
+Line 4 added in master
