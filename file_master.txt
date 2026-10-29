@@ -1,2 +1,3 @@
 New file in master
 Changes by Student 2
+Изменения в файле от второго студента
